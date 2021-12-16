@@ -28,7 +28,7 @@ end
 
 clearChamps()
 toast('[—————[ End of Script ]—————]', 4, 'center')
-
+usleep(1e6)
 
 
 
