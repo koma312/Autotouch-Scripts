@@ -1,0 +1,6 @@
+#!/bin/sh
+chmod 755 /etc/cron/seconds.sh
+chmod +x /etc/cron/seconds.sh
+chown root:wheel /Library/LaunchDaemons/com.cron.seconds.plist
+chmod 644 /Library/LaunchDaemons/com.cron.seconds.plist
+launchctl load /Library/LaunchDaemons/com.cron.seconds.plist

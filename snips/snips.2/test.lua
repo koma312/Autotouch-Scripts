@@ -1,0 +1,24 @@
+varOne = funOne(x) for i=10,100,15 do if i%x==0 then toast(string.format('i=%d:x=%d', i, x)) usleep(1e6) end end end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

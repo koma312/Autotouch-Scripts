@@ -1,0 +1,6 @@
+Package: AutoRecovery
+Architecture: all
+Maintainer: @MCOCAutomationTeam
+Priority: optional
+Version: 2.0
+Description: Allows bots to recover from respring 
